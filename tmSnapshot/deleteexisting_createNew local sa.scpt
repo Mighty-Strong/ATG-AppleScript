@@ -1,0 +1,1 @@
+do shell script "/path/to/manage_snapshots.sh"
